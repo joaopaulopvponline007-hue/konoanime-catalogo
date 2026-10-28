@@ -6,6 +6,13 @@
       "categoria": "AVENTURA",
       "capa": "https://raw.githubusercontent.com/joaopaulopvponline007-hue/konoanime-catalogo/refs/heads/main/capas/capaKonosuba.webp",
       "link": "https://drive.google.com/drive/folders/1VSw7jKyNgUzxyyKpXKIvvDh-CqT8PHBi?usp=sharing"
+    },
+    {
+      "id": "bleach",
+      "nome": "Bleach",
+      "categoria": "COMBATE",
+      "capa": "https://raw.githubusercontent.com/joaopaulopvponline007-hue/konoanime-catalogo/main/capa4.webp",
+      "link": "https://drive.google.com/drive/folders/11KY_vDUEDbeeeBxYWPXkj0pRTG7M8mXC?usp=drive_link"
     }
   ]
 }
